@@ -180,6 +180,7 @@ Até agora sim, muito bem.
 As vezes não faz login direito.
   - O que aprendeu sobre conversar com IAs?
 Já  sou avançado já conheço bem.
+LINK DO APP : https://friendly-finances-bot.lovable.app/
 
 > [!TIP]
 > Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
