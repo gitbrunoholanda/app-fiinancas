@@ -73,13 +73,113 @@ Durante essa etapa, você pode orientar a IA para três entregas principais:
 Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork** deste).  
 No README do seu repositório, inclua:
 
-- Seu **prompt final** (PRD);  
-- Prints ou pequenos vídeos das interações com a IA;  
-- Um resumo do que o seu **App de Finanças Pessoais** faz;  
-- Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
+- Seu **prompt final** (PRD):
+{
+PRD – App de Organização de Finanças Pessoais Conversacional
+
+1. Contexto
+Criar um aplicativo de organização financeira pessoal que funcione por meio de conversas naturais com o usuário.
+Objetivo: simplificar o controle de gastos e metas sem depender de formulários complexos ou planilhas.
+
+2. Problema
+- Apps atuais exigem muita entrada manual.
+- Pouca personalização e experiência engessada.
+- Usuários iniciantes desistem rapidamente por acharem complicado.
+Solução proposta: interação via chat com recomendações automáticas de economia, tornando o processo mais leve e acessível.
+
+3. Público-Alvo
+- Pessoas que desejam começar a organizar suas finanças sem complicação.
+- Principalmente iniciantes que nunca usaram apps financeiros ou desistiram por achar difícil.
+
+4. Funcionalidades-Chave
+- Registrar gastos via chat em linguagem natural.
+- Classificar automaticamente as transações.
+- Definir e acompanhar metas financeiras.
+- Receber dicas de economia do “Agente Financeiro”.
+- Visualizar relatórios simples e personalizados.
+
+5. Entregável da IA
+Gerar um plano de MVP com:
+- Principais telas (chat, metas, relatórios).
+- Recursos necessários (NLP para linguagem natural, categorização automática, motor de recomendações).
+- Esboço de validação inicial (testes com grupo piloto de usuários iniciantes).
+- Linguagem acessível e educativa em português.
+
+6. MVP – Fluxo de Telas e Recursos
+
+Tela de Onboarding
+- Breve explicação sobre o app.
+- Pergunta inicial: “Como você gostaria de começar a organizar suas finanças?”
+- Opções simples: registrar gasto, definir meta, visualizar relatório.
+
+Tela de Chat Financeiro
+- Campo de entrada em linguagem natural.
+- Exemplo: “Gastei R$ 50 no supermercado ontem.”
+- O sistema interpreta, classifica e registra automaticamente.
+- O Agente Financeiro responde com feedback amigável.
+
+Tela de Metas Financeiras
+- Criar metas simples: “Guardar R$ 200 este mês.”
+- Acompanhar progresso com barra visual.
+- Notificações motivacionais: “Você já atingiu 40% da sua meta!”
+
+Tela de Relatórios Personalizados
+- Gráficos simples (pizza ou barras).
+- Categorias automáticas: alimentação, transporte, lazer.
+- Insights rápidos: “Você gastou 20% a mais em lazer este mês.”
+
+Tela de Dicas de Economia
+- Recomendações do Agente Financeiro.
+- Exemplo: “Se reduzir 10% no gasto com delivery, você economiza R$ 80/mês.”
+- Sugestões práticas e contextualizadas.
+
+7. Recursos Necessários
+- NLP para interpretar mensagens.
+- Motor de categorização para classificar gastos.
+- Sistema de metas com acompanhamento visual.
+- Módulo de relatórios simples e acessível.
+- Agente Financeiro para dicas e recomendações.
+
+8. Validação Inicial
+- Testar com grupo piloto de usuários iniciantes.
+- Coletar feedback sobre clareza das conversas e utilidade das dicas.
+- Ajustar linguagem e relatórios conforme percepção dos usuários.
+- Critério de sucesso: usuários conseguem registrar gastos e definir metas sem dificuldade.
+
+9. Fluxo Visual (resumido)
+Onboarding → Chat Financeiro → Metas → Relatórios → Dicas de Economia
+
+10. Conceitos Didáticos
+
+PRD (Product Requirements Document)
+Documento que descreve o que será construído, por que será construído e como será validado.
+Serve como guia para alinhar equipe, stakeholders e IA no desenvolvimento do produto.
+
+Vibe Coding
+Abordagem criativa de programação usada no Lovable, focada em:
+- Experimentação rápida e prototipagem leve.
+- Exploração de ideias e fluxos visuais.
+- Aprendizado prático e divertido.
+- Ênfase na experiência e não na perfeição do código.
+
+Em resumo: o PRD é o mapa, e o Vibe Coding é a forma descontraída de explorar esse mapa no Lovable.
+
+}
+
+- Prints ou pequenos vídeos das interações com a IA
+<img width="794" height="807" alt="image" src="https://github.com/user-attachments/assets/0b6b19fb-b9fa-4c7c-b21b-0bda9555156e" />
+<img width="777" height="778" alt="image" src="https://github.com/user-attachments/assets/36f4c0f7-b274-4397-8962-691472b21766" />
+
+- Um resumo do que o seu **App de Finanças Pessoais** faz
+Registra entradas e saidas mensais e tem ciclo de 30 dias e barra de limete de gasto no mes.
+- Uma breve **reflexão sobre o processo**
+  Projeto bacana vai ajudar muito no controle financeiro que já faço.
+  - O que funcionou bem?
+Até agora sim, muito bem.
+  - O que não funcionou como o esperado?
+As vezes não faz login direito.
   - O que aprendeu sobre conversar com IAs?
+Já  sou avançado já conheço bem.
 
 > [!TIP]
 > Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
